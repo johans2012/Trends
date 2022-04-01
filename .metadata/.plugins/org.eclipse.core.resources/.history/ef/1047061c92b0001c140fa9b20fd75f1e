@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Load the Paper.js library -->
+ <script type="text/paperscript" canvas="quad">
+  var rectA = new Path.Rectangle(new Point(250, 70), new Size(120, 120));
+  rectA.fillColor = 'pink';
+  var rectB = rectA.clone();
+  rectB.fillColor = 'purple';
+  rectB.position += new Point(80, 80);
+  rectB.opacity = 0.6;
+  rectB.blendMode = 'color-burn';
+  rectB.scale(1.5);
+  rectB.rotate(45);
+  var rectC = rectB.clone();
+  rectC.fillColor = 'lightgreen';
+  rectC.position += new Point(-180, 0);
+  rectC.blendMode = 'color-dodge';
+  rectC.scale(1.5);
+</script>
+</head>
+
+<body>
+  <canvas id="quad" resize></canvas>
+</body>
+
+</html>

@@ -1,0 +1,1161 @@
+Info 0    [17:8:7.323] Format host information updated
+Info 1    [17:8:7.328] reload projects.
+Info 2    [17:8:7.328] Before ensureProjectForOpenFiles:
+Info 3    [17:8:7.328] After ensureProjectForOpenFiles:
+Info 4    [17:8:7.329] Host file extension mappings updated
+Info 5    [17:8:7.450] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game
+Info 6    [17:8:7.462] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 7    [17:8:7.464] Opened configuration file c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 8    [17:8:7.972] Config: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json : {
+ "rootNames": [
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.e2e-spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.po.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/main.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/polyfills.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/test.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app-routing.module.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.module.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.service.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.prod.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular",
+  "outDir": "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "module": 5,
+  "moduleResolution": 2,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true,
+  "importHelpers": true,
+  "target": 1,
+  "typeRoots": [
+   "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/node_modules/@types"
+  ],
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json"
+ }
+}
+Info 9    [17:8:7.990] Loading global plugin @angular/language-service
+Info 10   [17:8:7.991] Enabling plugin @angular/language-service from candidate paths: c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\node_modules\@angular\language-service\bundles\language-service.umd.js,c:/node_modules/angular-ide/angular-ide/plugins/pack.angular.win_3.6.0.202007171759/Angular.ng-template-0.1000.2-cm/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [17:8:7.991] Loading @angular/language-service from c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\node_modules\@angular\language-service\bundles\language-service.umd.js (resolved to c:/node_modules/angular-ide/angular-ide/plugins/pack.angular.win_3.6.0.202007171759/Angular.ng-template-0.1000.2-cm/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 12   [17:8:8.647] Plugin validation succeded
+Info 13   [17:8:9.27] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 14   [17:8:39.143] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 1 structureChanged: true Elapsed: 30115ms
+Info 15   [17:8:39.143] Project 'c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json' (Configured)
+Info 16   [17:8:39.180] 	Files (617)
+
+Info 17   [17:8:39.181] -----------------------------------------------
+Info 18   [17:8:39.207] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 19   [17:8:39.318] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 2 structureChanged: false Elapsed: 111ms
+Info 20   [17:8:39.450] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 21   [17:8:39.453] Elapsed:: 3ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 22   [17:8:39.459] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 23   [17:8:39.461] Elapsed:: 2ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 24   [17:8:39.463] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 25   [17:8:39.464] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 26   [17:8:39.466] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 27   [17:8:39.466] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 28   [17:8:39.468] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 29   [17:8:39.468] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 30   [17:8:39.508] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.ts 500 undefined Project:  WatchType: Closed Script info
+Info 31   [17:8:39.508] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.ts 500 undefined Project:  WatchType: Closed Script info
+Info 32   [17:8:39.524] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 33   [17:8:39.525] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 34   [17:8:39.530] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.ts 500 undefined Project:  WatchType: Closed Script info
+Info 35   [17:8:39.531] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.ts 500 undefined Project:  WatchType: Closed Script info
+Info 36   [17:8:39.538] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 37   [17:8:39.539] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 38   [17:8:39.561] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts 500 undefined Project:  WatchType: Closed Script info
+Info 39   [17:8:39.562] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts 500 undefined Project:  WatchType: Closed Script info
+Info 40   [17:8:39.567] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 41   [17:8:39.567] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 42   [17:8:39.572] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.ts 500 undefined Project:  WatchType: Closed Script info
+Info 43   [17:8:39.576] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.ts 500 undefined Project:  WatchType: Closed Script info
+Info 44   [17:8:39.580] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 45   [17:8:39.581] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 46   [17:8:39.583] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 47   [17:8:39.584] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 48   [17:8:39.586] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 49   [17:8:39.589] Elapsed:: 3ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 50   [17:8:39.657] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 51   [17:8:39.739] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 3 structureChanged: false Elapsed: 82ms
+Info 52   [17:8:40.211] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 53   [17:8:40.212] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 54   [17:8:40.398] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 55   [17:8:40.399] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 56   [17:8:40.399] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 57   [17:8:40.399] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 58   [17:8:40.399] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 59   [17:8:40.400] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 60   [17:8:42.98] Before ensureProjectForOpenFiles:
+Info 61   [17:8:42.101] After ensureProjectForOpenFiles:
+Info 62   [17:8:43.391] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 63   [17:8:43.391] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 64   [17:8:43.681] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 65   [17:8:43.736] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 4 structureChanged: false Elapsed: 55ms
+Info 66   [17:8:45.906] Before ensureProjectForOpenFiles:
+Info 67   [17:8:45.906] After ensureProjectForOpenFiles:
+Info 68   [17:13:13.656] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game
+Info 69   [17:13:13.661] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 70   [17:13:21.717] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 71   [17:13:23.204] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 5 structureChanged: false Elapsed: 1487ms
+Info 72   [17:13:23.204] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 73   [17:13:42.199] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 74   [17:13:42.199] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 75   [17:13:42.199] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 76   [17:13:43.47] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 6 structureChanged: false Elapsed: 848ms
+Info 77   [17:13:43.56] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 78   [17:13:43.795] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 79   [17:13:43.795] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 80   [17:13:46.915] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game
+Info 81   [17:13:46.918] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 82   [17:13:47.650] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 83   [17:13:47.651] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 84   [17:13:56.834] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 85   [17:13:56.835] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 86   [17:19:35.289] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 87   [17:19:35.290] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 88   [17:19:35.299] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 89   [17:19:35.299] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 90   [17:19:35.312] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 91   [17:19:35.312] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 92   [17:19:35.564] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 93   [17:19:35.932] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 7 structureChanged: false Elapsed: 367ms
+Info 94   [17:19:35.932] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 95   [17:19:37.812] Before ensureProjectForOpenFiles:
+Info 96   [17:19:37.813] After ensureProjectForOpenFiles:
+Info 97   [17:32:16.782] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 98   [17:32:17.798] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 8 structureChanged: false Elapsed: 1014ms
+Info 99   [17:32:17.798] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 100  [17:32:22.684] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 101  [17:32:22.989] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 9 structureChanged: false Elapsed: 305ms
+Info 102  [17:32:22.989] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 103  [17:32:55.463] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 104  [17:32:55.946] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 10 structureChanged: false Elapsed: 483ms
+Info 105  [17:32:55.946] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 106  [17:32:56.160] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 107  [17:32:56.323] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 11 structureChanged: false Elapsed: 163ms
+Info 108  [17:32:56.323] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 109  [17:32:58.548] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 110  [17:32:58.826] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 12 structureChanged: false Elapsed: 277ms
+Info 111  [17:32:58.826] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 112  [17:34:4.628] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 113  [17:34:4.885] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 13 structureChanged: false Elapsed: 256ms
+Info 114  [17:34:4.885] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 115  [17:34:9.702] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 116  [17:34:9.702] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 117  [17:34:21.226] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 118  [17:34:21.226] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 119  [17:34:21.232] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 120  [17:34:21.233] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 121  [17:34:21.237] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 122  [17:34:21.237] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 123  [17:34:21.238] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 124  [17:34:21.238] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 125  [17:34:22.37] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 126  [17:34:22.114] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 14 structureChanged: false Elapsed: 77ms
+Info 127  [17:34:22.495] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 128  [17:34:22.540] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 15 structureChanged: false Elapsed: 45ms
+Info 129  [17:34:23.316] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 130  [17:34:23.344] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 16 structureChanged: false Elapsed: 28ms
+Info 131  [17:34:24.490] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 132  [17:34:24.548] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 17 structureChanged: false Elapsed: 58ms
+Info 133  [17:34:25.136] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 134  [17:34:25.157] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 18 structureChanged: false Elapsed: 21ms
+Info 135  [17:34:28.267] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 136  [17:34:28.299] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 19 structureChanged: false Elapsed: 32ms
+Info 137  [17:34:42.117] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 138  [17:34:42.117] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 139  [17:35:35.68] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 140  [17:35:35.128] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 20 structureChanged: false Elapsed: 37ms
+Info 141  [17:35:35.717] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 142  [17:35:35.748] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 21 structureChanged: false Elapsed: 31ms
+Info 143  [17:36:10.308] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 144  [17:36:10.499] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 22 structureChanged: false Elapsed: 191ms
+Info 145  [17:36:10.499] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 146  [17:36:10.799] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 147  [17:36:10.994] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 23 structureChanged: false Elapsed: 195ms
+Info 148  [17:36:10.994] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 149  [17:36:17.642] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 150  [17:36:17.680] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 24 structureChanged: false Elapsed: 37ms
+Info 151  [17:36:50.970] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 152  [17:36:51.2] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 25 structureChanged: false Elapsed: 32ms
+Info 153  [17:37:14.418] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 154  [17:37:14.419] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.module.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 155  [17:37:14.419] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 156  [17:37:14.752] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 26 structureChanged: false Elapsed: 333ms
+Info 157  [17:37:14.752] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 158  [17:37:17.855] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 159  [17:37:17.855] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 160  [17:37:53.130] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 161  [17:37:53.130] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app-routing.module.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 162  [17:38:8.865] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list
+Info 163  [17:38:8.869] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 164  [17:38:25.184] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 165  [17:38:25.369] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 27 structureChanged: false Elapsed: 185ms
+Info 166  [17:38:25.369] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 167  [17:38:27.827] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 168  [17:38:28.142] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 28 structureChanged: false Elapsed: 315ms
+Info 169  [17:38:28.142] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 170  [17:38:29.212] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 171  [17:38:29.519] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 29 structureChanged: false Elapsed: 306ms
+Info 172  [17:38:29.519] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 173  [17:38:29.807] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 174  [17:38:29.918] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 30 structureChanged: false Elapsed: 110ms
+Info 175  [17:38:29.919] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 176  [17:38:30.381] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 177  [17:38:30.758] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 31 structureChanged: false Elapsed: 376ms
+Info 178  [17:38:30.758] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 179  [17:38:31.0] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 180  [17:38:31.155] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 32 structureChanged: false Elapsed: 155ms
+Info 181  [17:38:31.155] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 182  [17:38:31.392] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 183  [17:38:31.526] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 33 structureChanged: false Elapsed: 134ms
+Info 184  [17:38:31.526] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 185  [17:38:31.901] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 186  [17:38:32.217] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 34 structureChanged: false Elapsed: 316ms
+Info 187  [17:38:32.217] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 188  [17:38:32.461] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 189  [17:38:32.555] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 35 structureChanged: false Elapsed: 94ms
+Info 190  [17:38:32.555] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 191  [17:38:33.914] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 192  [17:38:34.78] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 36 structureChanged: false Elapsed: 164ms
+Info 193  [17:38:34.78] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 194  [17:38:34.375] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 195  [17:38:34.522] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 37 structureChanged: false Elapsed: 146ms
+Info 196  [17:38:34.522] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 197  [17:38:35.412] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 198  [17:38:35.546] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 38 structureChanged: false Elapsed: 134ms
+Info 199  [17:38:35.546] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 200  [17:38:38.132] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 201  [17:38:38.294] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 39 structureChanged: false Elapsed: 162ms
+Info 202  [17:38:38.294] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 203  [17:38:38.872] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 204  [17:38:39.60] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 40 structureChanged: false Elapsed: 187ms
+Info 205  [17:38:39.60] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 206  [17:38:40.113] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 207  [17:38:40.304] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 41 structureChanged: false Elapsed: 190ms
+Info 208  [17:38:40.304] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 209  [17:38:40.735] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 210  [17:38:40.898] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 42 structureChanged: false Elapsed: 163ms
+Info 211  [17:38:40.898] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 212  [17:38:41.568] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 213  [17:38:41.819] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 43 structureChanged: false Elapsed: 251ms
+Info 214  [17:38:41.819] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 215  [17:38:42.45] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 216  [17:38:42.302] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 44 structureChanged: false Elapsed: 257ms
+Info 217  [17:38:42.302] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 218  [17:38:42.622] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 219  [17:38:42.850] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 45 structureChanged: false Elapsed: 228ms
+Info 220  [17:38:42.851] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 221  [17:38:43.99] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 222  [17:38:43.252] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 46 structureChanged: false Elapsed: 153ms
+Info 223  [17:38:43.252] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 224  [17:38:47.593] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 225  [17:38:47.710] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 47 structureChanged: false Elapsed: 116ms
+Info 226  [17:38:47.710] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 227  [17:38:49.151] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 228  [17:38:49.275] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 48 structureChanged: false Elapsed: 124ms
+Info 229  [17:38:49.275] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 230  [17:38:50.491] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 231  [17:38:50.664] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 49 structureChanged: false Elapsed: 173ms
+Info 232  [17:38:50.664] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 233  [17:38:52.99] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 234  [17:38:52.338] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 50 structureChanged: false Elapsed: 239ms
+Info 235  [17:38:52.338] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 236  [17:38:52.640] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 237  [17:38:52.792] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 51 structureChanged: false Elapsed: 152ms
+Info 238  [17:38:52.792] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 239  [17:38:56.9] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 240  [17:38:56.191] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 52 structureChanged: false Elapsed: 181ms
+Info 241  [17:38:56.191] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 242  [17:38:56.982] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 243  [17:38:57.229] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 53 structureChanged: false Elapsed: 247ms
+Info 244  [17:38:57.230] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 245  [17:38:57.308] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 246  [17:38:57.508] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 54 structureChanged: false Elapsed: 200ms
+Info 247  [17:38:57.508] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 248  [17:38:57.733] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 249  [17:38:57.902] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 55 structureChanged: false Elapsed: 169ms
+Info 250  [17:38:57.902] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 251  [17:38:59.359] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 252  [17:38:59.525] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 56 structureChanged: false Elapsed: 166ms
+Info 253  [17:38:59.525] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 254  [17:39:0.176] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 255  [17:39:0.365] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 57 structureChanged: false Elapsed: 189ms
+Info 256  [17:39:0.366] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 257  [17:39:5.768] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 258  [17:39:5.909] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 58 structureChanged: false Elapsed: 141ms
+Info 259  [17:39:5.909] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 260  [17:39:6.130] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 261  [17:39:6.315] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 59 structureChanged: false Elapsed: 185ms
+Info 262  [17:39:6.315] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 263  [17:39:14.247] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list
+Info 264  [17:39:14.249] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 265  [17:39:26.669] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 266  [17:39:26.813] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 60 structureChanged: false Elapsed: 144ms
+Info 267  [17:39:26.813] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 268  [17:39:31.822] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 269  [17:39:31.946] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 61 structureChanged: false Elapsed: 123ms
+Info 270  [17:39:31.946] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 271  [17:39:40.845] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 272  [17:39:41.19] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 62 structureChanged: false Elapsed: 173ms
+Info 273  [17:39:41.19] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 274  [17:39:49.607] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 275  [17:39:49.851] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 63 structureChanged: false Elapsed: 244ms
+Info 276  [17:39:49.851] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 277  [17:39:53.431] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 278  [17:39:53.579] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 64 structureChanged: false Elapsed: 147ms
+Info 279  [17:39:53.579] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 280  [17:39:57.113] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 281  [17:39:57.344] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 65 structureChanged: false Elapsed: 231ms
+Info 282  [17:39:57.344] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 283  [17:39:57.565] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 284  [17:39:57.718] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 66 structureChanged: false Elapsed: 153ms
+Info 285  [17:39:57.718] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 286  [17:40:7.558] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student
+Info 287  [17:40:7.559] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 288  [17:40:17.67] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 289  [17:40:17.265] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 67 structureChanged: false Elapsed: 198ms
+Info 290  [17:40:17.265] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 291  [17:40:18.136] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 292  [17:40:18.304] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 68 structureChanged: false Elapsed: 168ms
+Info 293  [17:40:18.304] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 294  [17:40:18.899] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 295  [17:40:19.176] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 69 structureChanged: false Elapsed: 277ms
+Info 296  [17:40:19.176] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 297  [17:40:19.272] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 298  [17:40:19.393] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 70 structureChanged: false Elapsed: 121ms
+Info 299  [17:40:19.393] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 300  [17:40:19.852] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 301  [17:40:20.182] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 71 structureChanged: false Elapsed: 330ms
+Info 302  [17:40:20.183] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 303  [17:40:21.564] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 304  [17:40:21.703] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 72 structureChanged: false Elapsed: 139ms
+Info 305  [17:40:21.703] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 306  [17:40:22.673] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 307  [17:40:22.797] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 73 structureChanged: false Elapsed: 124ms
+Info 308  [17:40:22.797] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 309  [17:40:24.137] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 310  [17:40:24.296] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 74 structureChanged: false Elapsed: 159ms
+Info 311  [17:40:24.297] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 312  [17:40:24.516] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 313  [17:40:24.615] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 75 structureChanged: false Elapsed: 99ms
+Info 314  [17:40:24.615] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 315  [17:40:25.758] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 316  [17:40:25.909] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 76 structureChanged: false Elapsed: 151ms
+Info 317  [17:40:25.910] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 318  [17:40:26.248] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 319  [17:40:26.410] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 77 structureChanged: false Elapsed: 162ms
+Info 320  [17:40:26.410] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 321  [17:40:27.406] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 322  [17:40:27.609] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 78 structureChanged: false Elapsed: 202ms
+Info 323  [17:40:27.609] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 324  [17:40:28.991] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 325  [17:40:28.992] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 326  [17:40:34.418] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 327  [17:40:34.418] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 328  [17:40:34.419] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 329  [17:40:34.556] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 79 structureChanged: false Elapsed: 137ms
+Info 330  [17:40:34.556] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 331  [17:40:58.574] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 332  [17:40:58.710] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 80 structureChanged: false Elapsed: 136ms
+Info 333  [17:40:58.710] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 334  [17:40:59.358] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 335  [17:40:59.565] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 81 structureChanged: false Elapsed: 207ms
+Info 336  [17:40:59.565] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 337  [17:41:0.189] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 338  [17:41:0.334] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 82 structureChanged: false Elapsed: 144ms
+Info 339  [17:41:0.334] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 340  [17:41:1.641] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 341  [17:41:1.771] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 83 structureChanged: false Elapsed: 130ms
+Info 342  [17:41:1.771] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 343  [17:41:2.644] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 344  [17:41:2.799] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 84 structureChanged: false Elapsed: 154ms
+Info 345  [17:41:2.799] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 346  [17:41:3.404] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 347  [17:41:3.615] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 85 structureChanged: false Elapsed: 211ms
+Info 348  [17:41:3.615] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 349  [17:41:3.842] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 350  [17:41:4.8] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 86 structureChanged: false Elapsed: 165ms
+Info 351  [17:41:4.8] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 352  [17:41:8.608] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 353  [17:41:8.788] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 87 structureChanged: false Elapsed: 180ms
+Info 354  [17:41:8.788] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 355  [17:41:9.176] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 356  [17:41:9.317] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 88 structureChanged: false Elapsed: 141ms
+Info 357  [17:41:9.317] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 358  [17:41:10.391] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 359  [17:41:10.514] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 89 structureChanged: false Elapsed: 122ms
+Info 360  [17:41:10.514] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 361  [17:41:21.634] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player
+Info 362  [17:41:21.635] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 363  [17:41:32.67] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 364  [17:41:32.286] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 90 structureChanged: false Elapsed: 219ms
+Info 365  [17:41:32.286] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 366  [17:41:37.546] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 367  [17:41:37.680] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 91 structureChanged: false Elapsed: 134ms
+Info 368  [17:41:37.680] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 369  [17:41:42.830] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 370  [17:41:43.38] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 92 structureChanged: false Elapsed: 208ms
+Info 371  [17:41:43.38] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 372  [17:41:43.928] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 373  [17:41:44.117] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 93 structureChanged: false Elapsed: 188ms
+Info 374  [17:41:44.117] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 375  [17:41:54.481] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 376  [17:41:55.22] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 94 structureChanged: true Elapsed: 540ms
+Info 377  [17:41:55.22] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 378  [17:41:55.525] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 379  [17:41:55.661] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 95 structureChanged: false Elapsed: 136ms
+Info 380  [17:41:55.661] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 381  [17:42:5.235] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 382  [17:42:5.475] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 96 structureChanged: false Elapsed: 240ms
+Info 383  [17:42:5.475] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 384  [17:42:10.664] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 385  [17:42:11.210] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 97 structureChanged: true Elapsed: 545ms
+Info 386  [17:42:11.210] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 387  [17:42:15.731] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 388  [17:42:16.324] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 98 structureChanged: true Elapsed: 592ms
+Info 389  [17:42:16.324] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 390  [17:42:17.959] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 391  [17:42:18.468] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 99 structureChanged: true Elapsed: 509ms
+Info 392  [17:42:18.468] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 393  [17:42:19.44] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 394  [17:42:19.507] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 100 structureChanged: true Elapsed: 463ms
+Info 395  [17:42:19.507] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 396  [17:42:19.571] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 397  [17:42:20.84] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 101 structureChanged: true Elapsed: 513ms
+Info 398  [17:42:20.84] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 399  [17:42:20.695] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 400  [17:42:21.2] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 102 structureChanged: true Elapsed: 307ms
+Info 401  [17:42:21.2] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 402  [17:42:28.225] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 403  [17:42:28.842] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 103 structureChanged: true Elapsed: 617ms
+Info 404  [17:42:28.842] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 405  [17:42:30.913] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 406  [17:42:31.408] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 104 structureChanged: true Elapsed: 494ms
+Info 407  [17:42:31.408] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 408  [17:42:32.5] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 409  [17:42:32.615] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 105 structureChanged: true Elapsed: 610ms
+Info 410  [17:42:32.615] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 411  [17:42:33.361] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 412  [17:42:33.928] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 106 structureChanged: true Elapsed: 567ms
+Info 413  [17:42:33.928] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 414  [17:42:34.603] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 415  [17:42:35.147] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 107 structureChanged: true Elapsed: 544ms
+Info 416  [17:42:35.147] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 417  [17:42:37.415] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 418  [17:42:37.713] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 108 structureChanged: true Elapsed: 297ms
+Info 419  [17:42:37.713] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 420  [17:42:39.432] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 421  [17:42:39.883] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 109 structureChanged: true Elapsed: 451ms
+Info 422  [17:42:39.883] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 423  [17:42:39.938] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 424  [17:42:40.399] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 110 structureChanged: true Elapsed: 461ms
+Info 425  [17:42:40.399] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 426  [17:42:43.771] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 427  [17:42:44.266] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 111 structureChanged: true Elapsed: 495ms
+Info 428  [17:42:44.266] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 429  [17:42:45.577] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 430  [17:42:45.991] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 112 structureChanged: true Elapsed: 414ms
+Info 431  [17:42:45.991] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 432  [17:42:53.625] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 433  [17:42:53.749] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 113 structureChanged: false Elapsed: 123ms
+Info 434  [17:42:53.749] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 435  [17:42:54.866] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 436  [17:42:55.21] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 114 structureChanged: false Elapsed: 154ms
+Info 437  [17:42:55.21] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 438  [17:42:55.852] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 439  [17:42:56.57] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 115 structureChanged: false Elapsed: 205ms
+Info 440  [17:42:56.58] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 441  [17:43:0.122] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 442  [17:43:0.434] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 116 structureChanged: true Elapsed: 312ms
+Info 443  [17:43:0.434] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 444  [17:43:5.759] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo
+Info 445  [17:43:5.760] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 446  [17:43:8.509] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 447  [17:43:8.638] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 117 structureChanged: false Elapsed: 129ms
+Info 448  [17:43:8.638] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 449  [17:43:21.536] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 450  [17:43:22.553] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 118 structureChanged: true Elapsed: 1017ms
+Info 451  [17:43:22.553] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 452  [17:43:22.867] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 453  [17:43:23.237] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 119 structureChanged: true Elapsed: 370ms
+Info 454  [17:43:23.237] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 455  [17:43:27.782] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 456  [17:43:28.288] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 120 structureChanged: true Elapsed: 506ms
+Info 457  [17:43:28.288] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 458  [17:43:28.574] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 459  [17:43:29.404] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 121 structureChanged: true Elapsed: 830ms
+Info 460  [17:43:29.404] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 461  [17:43:29.648] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 462  [17:43:30.221] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 122 structureChanged: true Elapsed: 573ms
+Info 463  [17:43:30.221] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 464  [17:43:30.464] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 465  [17:43:31.117] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 123 structureChanged: true Elapsed: 653ms
+Info 466  [17:43:31.117] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 467  [17:43:31.165] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 468  [17:43:31.929] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 124 structureChanged: true Elapsed: 764ms
+Info 469  [17:43:31.929] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 470  [17:43:32.171] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 471  [17:43:32.746] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 125 structureChanged: true Elapsed: 575ms
+Info 472  [17:43:32.746] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 473  [17:43:45.21] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 474  [17:43:45.412] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 126 structureChanged: true Elapsed: 389ms
+Info 475  [17:43:45.412] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 476  [17:43:45.757] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 477  [17:43:46.389] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 127 structureChanged: true Elapsed: 632ms
+Info 478  [17:43:46.389] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 479  [17:43:48.334] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 480  [17:43:48.786] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 128 structureChanged: true Elapsed: 452ms
+Info 481  [17:43:48.786] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 482  [17:43:49.46] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 483  [17:43:49.358] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 129 structureChanged: true Elapsed: 312ms
+Info 484  [17:43:49.358] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 485  [17:43:58.884] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 486  [17:43:59.61] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 130 structureChanged: false Elapsed: 177ms
+Info 487  [17:43:59.61] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 488  [17:44:3.183] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 489  [17:44:3.343] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 131 structureChanged: false Elapsed: 160ms
+Info 490  [17:44:3.344] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 491  [17:45:11.919] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 492  [17:45:12.96] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 132 structureChanged: false Elapsed: 177ms
+Info 493  [17:45:12.97] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 494  [17:47:59.391] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 495  [17:47:59.391] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 496  [17:48:18.689] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 497  [17:48:18.691] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 498  [17:49:7.795] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list
+Info 499  [17:49:7.796] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 500  [17:49:17.893] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list
+Info 501  [17:49:17.894] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 502  [17:50:39.828] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 503  [17:50:39.877] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 133 structureChanged: false Elapsed: 49ms
+Info 504  [17:50:48.966] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 505  [17:50:49.10] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 134 structureChanged: false Elapsed: 44ms
+Info 506  [17:51:13.889] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list
+Info 507  [17:51:13.890] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 508  [17:51:13.890] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 509  [17:51:14.414] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 135 structureChanged: false Elapsed: 524ms
+Info 510  [17:51:14.414] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 511  [17:53:34.38] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list
+Info 512  [17:53:34.38] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 513  [17:53:51.313] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 514  [17:53:51.313] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app-routing.module.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 515  [17:54:42.16] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 516  [17:54:42.16] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 517  [17:54:45.212] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 518  [17:54:45.213] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.module.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 519  [17:54:49.702] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 520  [17:54:49.702] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 521  [17:54:52.918] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 522  [17:54:53.110] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 136 structureChanged: false Elapsed: 192ms
+Info 523  [17:54:53.110] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 524  [17:54:57.350] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 525  [17:54:57.724] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 137 structureChanged: false Elapsed: 373ms
+Info 526  [17:54:57.724] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 527  [17:54:58.521] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 528  [17:54:58.691] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 138 structureChanged: false Elapsed: 169ms
+Info 529  [17:54:58.691] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 530  [17:55:3.313] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 531  [17:55:3.314] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 532  [17:55:3.314] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 533  [17:55:3.581] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 139 structureChanged: false Elapsed: 267ms
+Info 534  [17:55:3.581] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 535  [17:55:40.486] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 536  [17:55:40.486] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.module.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 537  [17:57:40.540] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 538  [17:57:40.541] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app-routing.module.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 539  [17:58:7.38] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list
+Info 540  [17:58:7.39] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 541  [17:58:41.580] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 542  [17:58:41.798] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 140 structureChanged: false Elapsed: 218ms
+Info 543  [17:58:41.798] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 544  [17:58:43.896] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 545  [17:58:44.37] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 141 structureChanged: false Elapsed: 141ms
+Info 546  [17:58:44.37] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 547  [17:58:44.735] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 548  [17:58:44.864] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 142 structureChanged: false Elapsed: 129ms
+Info 549  [17:58:44.864] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 550  [17:58:45.449] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 551  [17:58:45.614] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 143 structureChanged: false Elapsed: 164ms
+Info 552  [17:58:45.615] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 553  [17:59:9.826] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list
+Info 554  [17:59:9.826] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 555  [17:59:9.826] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 556  [17:59:10.366] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 144 structureChanged: false Elapsed: 539ms
+Info 557  [17:59:10.366] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 558  [17:59:12.938] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list
+Info 559  [17:59:12.938] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 560  [17:59:52.183] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 561  [17:59:52.565] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 145 structureChanged: false Elapsed: 382ms
+Info 562  [17:59:52.565] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 563  [17:59:52.929] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 564  [17:59:53.252] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 146 structureChanged: false Elapsed: 323ms
+Info 565  [17:59:53.252] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 566  [17:59:53.741] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 567  [17:59:53.994] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 147 structureChanged: false Elapsed: 253ms
+Info 568  [17:59:53.994] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 569  [17:59:54.295] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 570  [17:59:54.480] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 148 structureChanged: false Elapsed: 184ms
+Info 571  [17:59:54.480] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 572  [18:0:10.625] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 573  [18:0:10.788] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 149 structureChanged: false Elapsed: 163ms
+Info 574  [18:0:10.789] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 575  [18:0:11.341] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 576  [18:0:11.578] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 150 structureChanged: false Elapsed: 237ms
+Info 577  [18:0:11.578] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 578  [18:0:11.873] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 579  [18:0:12.155] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 151 structureChanged: false Elapsed: 282ms
+Info 580  [18:0:12.156] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 581  [18:0:12.509] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 582  [18:0:12.728] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 152 structureChanged: false Elapsed: 219ms
+Info 583  [18:0:12.728] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 584  [18:0:18.771] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 585  [18:0:18.950] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 153 structureChanged: false Elapsed: 179ms
+Info 586  [18:0:18.951] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 587  [18:0:28.573] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 588  [18:0:29.215] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 154 structureChanged: false Elapsed: 642ms
+Info 589  [18:0:29.215] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 590  [18:4:4.896] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list
+Info 591  [18:4:4.897] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 592  [18:4:4.897] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 593  [18:4:5.120] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 155 structureChanged: false Elapsed: 223ms
+Info 594  [18:4:5.120] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 595  [18:5:32.59] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list
+Info 596  [18:5:32.59] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 597  [18:5:46.400] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 598  [18:5:46.400] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 599  [18:22:58.158] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.css :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 600  [18:22:58.231] Elapsed:: 70ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.css :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 601  [18:22:58.232] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student/add-student.component.css :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 602  [18:22:58.248] Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Detected file add/remove of non supported extension: c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student/add-student.component.css
+Info 603  [18:22:58.248] Elapsed:: 16ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student/add-student.component.css :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 604  [18:22:58.249] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 605  [18:22:58.262] Elapsed:: 13ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 606  [18:22:58.263] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.html :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 607  [18:22:58.264] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.html :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 608  [18:22:58.264] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.spec.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 609  [18:22:58.752] Elapsed:: 488ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.spec.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 610  [18:22:58.752] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 611  [18:22:58.864] Elapsed:: 112ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student/add-student.component.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 612  [18:22:58.864] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 613  [18:22:58.865] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-student :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 614  [18:22:58.865] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student/add-student.component.html :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 615  [18:22:58.868] Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Detected file add/remove of non supported extension: c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student/add-student.component.html
+Info 616  [18:22:58.868] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student/add-student.component.html :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 617  [18:22:58.869] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student/add-student.component.spec.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 618  [18:22:58.870] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student/add-student.component.spec.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 619  [18:22:58.871] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student/add-student.component.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 620  [18:22:58.871] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student/add-student.component.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 621  [18:22:58.871] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 622  [18:22:58.871] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/add-student :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 623  [18:22:59.349] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 624  [18:22:59.350] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 156 structureChanged: false Elapsed: 1ms
+Info 625  [18:22:59.351] Project 'c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json' (Configured)
+Info 626  [18:22:59.352] 	Files (617)
+
+Info 627  [18:22:59.352] -----------------------------------------------
+Info 628  [18:23:1.378] Before ensureProjectForOpenFiles:
+Info 629  [18:23:1.379] After ensureProjectForOpenFiles:
+Info 630  [18:23:10.21] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.css :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 631  [18:23:10.23] Elapsed:: 2ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.css :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 632  [18:23:10.23] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list/student-list.component.css :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 633  [18:23:10.24] Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Detected file add/remove of non supported extension: c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list/student-list.component.css
+Info 634  [18:23:10.24] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list/student-list.component.css :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 635  [18:23:10.27] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 636  [18:23:10.27] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 637  [18:23:10.27] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.html :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 638  [18:23:10.29] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.html :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 639  [18:23:10.29] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list/student-list.component.html :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 640  [18:23:10.30] Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Detected file add/remove of non supported extension: c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list/student-list.component.html
+Info 641  [18:23:10.31] Elapsed:: 2ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list/student-list.component.html :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 642  [18:23:10.40] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 643  [18:23:10.41] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 644  [18:23:10.41] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.spec.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 645  [18:23:10.193] Elapsed:: 150ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.spec.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 646  [18:23:10.193] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list/student-list.component.spec.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 647  [18:23:10.195] Elapsed:: 2ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list/student-list.component.spec.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 648  [18:23:10.195] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list/student-list.component.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 649  [18:23:10.196] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list/student-list.component.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 650  [18:23:10.197] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 651  [18:23:10.197] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student-list :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 652  [18:23:10.198] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 653  [18:23:10.386] Elapsed:: 188ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list/student-list.component.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 654  [18:23:10.386] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 655  [18:23:10.386] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student-list :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 656  [18:23:11.372] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 657  [18:23:11.376] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 157 structureChanged: true Elapsed: 4ms
+Info 658  [18:23:11.376] Project 'c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json' (Configured)
+Info 659  [18:23:11.376] 	Files (622)
+
+Info 660  [18:23:11.376] -----------------------------------------------
+Info 661  [18:23:16.382] Before ensureProjectForOpenFiles:
+Info 662  [18:23:16.383] After ensureProjectForOpenFiles:
+Info 663  [18:23:16.385] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 664  [18:23:16.386] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 665  [18:23:16.392] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 666  [18:23:16.392] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 667  [18:23:16.394] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 668  [18:23:16.395] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 669  [18:23:16.401] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.module.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 670  [18:23:16.401] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.module.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 671  [18:23:16.402] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 672  [18:23:16.404] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app-routing.module.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 673  [18:23:16.404] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 674  [18:23:17.21] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 158 structureChanged: true Elapsed: 616ms
+Info 675  [18:23:17.21] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 676  [18:23:18.921] Before ensureProjectForOpenFiles:
+Info 677  [18:23:18.922] After ensureProjectForOpenFiles:
+Info 678  [18:23:22.328] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 679  [18:23:22.850] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 159 structureChanged: true Elapsed: 522ms
+Info 680  [18:23:22.850] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 681  [18:23:25.914] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 682  [18:23:26.391] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 160 structureChanged: true Elapsed: 477ms
+Info 683  [18:23:26.391] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 684  [18:23:27.653] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 685  [18:23:27.815] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 161 structureChanged: false Elapsed: 162ms
+Info 686  [18:23:27.815] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 687  [18:23:29.692] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 688  [18:23:29.861] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 162 structureChanged: false Elapsed: 168ms
+Info 689  [18:23:29.861] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 690  [18:23:34.297] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 691  [18:23:34.493] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 163 structureChanged: false Elapsed: 196ms
+Info 692  [18:23:34.493] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 693  [18:23:36.472] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 694  [18:23:36.638] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 164 structureChanged: false Elapsed: 165ms
+Info 695  [18:23:36.638] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 696  [18:23:41.184] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 697  [18:23:41.337] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 165 structureChanged: false Elapsed: 153ms
+Info 698  [18:23:41.337] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 699  [18:23:45.419] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 700  [18:23:45.571] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 166 structureChanged: false Elapsed: 151ms
+Info 701  [18:23:45.571] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 702  [18:23:56.766] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 703  [18:23:56.942] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 167 structureChanged: false Elapsed: 176ms
+Info 704  [18:23:56.942] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 705  [18:24:13.129] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 706  [18:24:13.359] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 168 structureChanged: false Elapsed: 230ms
+Info 707  [18:24:13.359] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 708  [18:24:16.267] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 709  [18:24:16.462] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 169 structureChanged: false Elapsed: 194ms
+Info 710  [18:24:16.462] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 711  [18:24:16.812] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 712  [18:24:16.994] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 170 structureChanged: false Elapsed: 182ms
+Info 713  [18:24:17.9] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 714  [18:24:32.130] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 715  [18:24:32.130] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 716  [18:24:32.387] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 717  [18:24:32.721] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 171 structureChanged: false Elapsed: 334ms
+Info 718  [18:24:32.721] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 719  [18:24:32.722] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 720  [18:24:32.722] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 721  [18:24:34.631] Before ensureProjectForOpenFiles:
+Info 722  [18:24:34.631] After ensureProjectForOpenFiles:
+Info 723  [18:24:37.492] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 724  [18:24:37.493] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.module.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 725  [18:24:42.715] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 726  [18:24:43.44] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 172 structureChanged: true Elapsed: 329ms
+Info 727  [18:24:43.44] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 728  [18:24:45.967] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 729  [18:24:46.77] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 173 structureChanged: false Elapsed: 110ms
+Info 730  [18:24:46.77] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 731  [18:24:47.685] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 732  [18:24:47.845] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 174 structureChanged: false Elapsed: 160ms
+Info 733  [18:24:47.846] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 734  [18:24:51.698] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 735  [18:24:51.821] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 175 structureChanged: false Elapsed: 123ms
+Info 736  [18:24:51.821] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 737  [18:24:52.32] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 738  [18:24:52.161] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 176 structureChanged: false Elapsed: 129ms
+Info 739  [18:24:52.161] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 740  [18:25:19.899] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.ts 500 undefined Project:  WatchType: Closed Script info
+Info 741  [18:25:19.900] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.ts 500 undefined Project:  WatchType: Closed Script info
+Info 742  [18:25:19.910] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.ts 500 undefined Project:  WatchType: Closed Script info
+Info 743  [18:25:19.926] Elapsed:: 16ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.ts 500 undefined Project:  WatchType: Closed Script info
+Info 744  [18:25:19.930] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 745  [18:25:20.160] Elapsed:: 230ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 746  [18:25:20.163] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 747  [18:25:20.166] Elapsed:: 3ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 748  [18:25:21.266] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 749  [18:25:21.267] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 177 structureChanged: true Elapsed: 1ms
+Info 750  [18:25:21.267] Project 'c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json' (Configured)
+Info 751  [18:25:21.268] 	Files (618)
+
+Info 752  [18:25:21.268] -----------------------------------------------
+Info 753  [18:25:22.667] Before ensureProjectForOpenFiles:
+Info 754  [18:25:22.667] After ensureProjectForOpenFiles:
+Info 755  [18:25:23.488] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 756  [18:25:23.489] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 757  [18:25:23.489] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 758  [18:25:23.489] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 759  [18:25:23.490] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.spec.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 760  [18:25:23.629] Elapsed:: 139ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.spec.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 761  [18:25:23.629] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student.spec.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 762  [18:25:23.630] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student.spec.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 763  [18:25:24.437] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 764  [18:25:24.439] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 178 structureChanged: true Elapsed: 2ms
+Info 765  [18:25:24.439] Project 'c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json' (Configured)
+Info 766  [18:25:24.439] 	Files (617)
+
+Info 767  [18:25:24.439] -----------------------------------------------
+Info 768  [18:25:26.141] Before ensureProjectForOpenFiles:
+Info 769  [18:25:26.141] After ensureProjectForOpenFiles:
+Info 770  [18:25:36.545] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts 500 undefined Project:  WatchType: Closed Script info
+Info 771  [18:25:36.545] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts 500 undefined Project:  WatchType: Closed Script info
+Info 772  [18:25:36.546] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts 500 undefined Project:  WatchType: Closed Script info
+Info 773  [18:25:36.546] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts 500 undefined Project:  WatchType: Closed Script info
+Info 774  [18:25:36.546] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 775  [18:25:36.836] Elapsed:: 290ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 776  [18:25:36.895] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 777  [18:25:37.481] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 179 structureChanged: true Elapsed: 586ms
+Info 778  [18:25:37.481] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 779  [18:25:37.483] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student.service.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 780  [18:25:37.484] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student.service.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 781  [18:25:37.780] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 782  [18:25:37.780] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 180 structureChanged: false Elapsed: 0ms
+Info 783  [18:25:37.781] Project 'c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json' (Configured)
+Info 784  [18:25:37.781] 	Files (616)
+
+Info 785  [18:25:37.781] -----------------------------------------------
+Info 786  [18:25:39.985] Before ensureProjectForOpenFiles:
+Info 787  [18:25:39.986] After ensureProjectForOpenFiles:
+Info 788  [18:25:41.687] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 789  [18:25:41.687] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 790  [18:25:41.688] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 791  [18:25:41.688] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 792  [18:25:41.688] DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 793  [18:25:41.811] Elapsed:: 123ms DirectoryWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/student.service.spec.ts :: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Failed Lookup Locations
+Info 794  [18:25:41.811] DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student.service.spec.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 795  [18:25:41.812] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/users/michl/git/spring-angular-mysql-crud/angular/src/app/student.service.spec.ts :: WatchInfo: c:/users/michl/git/spring-angular-mysql-crud/angular 1 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Wild card directory
+Info 796  [18:25:42.502] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 797  [18:25:42.503] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 181 structureChanged: true Elapsed: 1ms
+Info 798  [18:25:42.503] Project 'c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json' (Configured)
+Info 799  [18:25:42.503] 	Files (615)
+
+Info 800  [18:25:42.503] -----------------------------------------------
+Info 801  [18:25:44.320] Before ensureProjectForOpenFiles:
+Info 802  [18:25:44.320] After ensureProjectForOpenFiles:
+Info 803  [18:25:52.914] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 804  [18:25:52.918] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 805  [18:26:28.346] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.ts 500 undefined Project:  WatchType: Closed Script info
+Info 806  [18:26:28.346] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.ts 500 undefined Project:  WatchType: Closed Script info
+Info 807  [18:26:28.605] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 808  [18:26:29.88] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 182 structureChanged: true Elapsed: 482ms
+Info 809  [18:26:29.88] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 810  [18:26:29.95] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 811  [18:26:29.97] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 812  [18:26:30.850] Before ensureProjectForOpenFiles:
+Info 813  [18:26:30.850] After ensureProjectForOpenFiles:
+Info 814  [18:26:36.361] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.service.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.service.ts 500 undefined Project:  WatchType: Closed Script info
+Info 815  [18:26:36.362] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.service.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.service.ts 500 undefined Project:  WatchType: Closed Script info
+Info 816  [18:26:36.580] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 817  [18:26:36.582] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 818  [18:26:36.582] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 819  [18:26:36.922] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 183 structureChanged: false Elapsed: 340ms
+Info 820  [18:26:36.923] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 821  [18:26:38.872] Before ensureProjectForOpenFiles:
+Info 822  [18:26:38.872] After ensureProjectForOpenFiles:
+Info 823  [18:26:49.539] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 824  [18:26:49.539] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 825  [18:26:55.493] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.ts 500 undefined Project:  WatchType: Closed Script info
+Info 826  [18:26:55.494] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.ts 500 undefined Project:  WatchType: Closed Script info
+Info 827  [18:26:55.718] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 828  [18:26:55.721] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 829  [18:26:55.721] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 830  [18:26:55.964] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 184 structureChanged: false Elapsed: 243ms
+Info 831  [18:26:55.964] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 832  [18:26:57.998] Before ensureProjectForOpenFiles:
+Info 833  [18:26:57.998] After ensureProjectForOpenFiles:
+Info 834  [18:27:5.691] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 835  [18:27:5.693] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 836  [18:27:9.554] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.ts 500 undefined Project:  WatchType: Closed Script info
+Info 837  [18:27:9.554] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.ts 500 undefined Project:  WatchType: Closed Script info
+Info 838  [18:27:9.787] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app
+Info 839  [18:27:9.789] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 840  [18:27:9.789] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 841  [18:27:10.135] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 185 structureChanged: false Elapsed: 346ms
+Info 842  [18:27:10.135] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 843  [18:27:12.55] Before ensureProjectForOpenFiles:
+Info 844  [18:27:12.55] After ensureProjectForOpenFiles:
+Info 845  [18:27:34.361] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo
+Info 846  [18:27:34.364] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 847  [18:27:56.0] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player
+Info 848  [18:27:56.3] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 849  [18:28:19.664] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 850  [18:28:20.54] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 186 structureChanged: false Elapsed: 389ms
+Info 851  [18:28:20.54] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 852  [18:28:23.229] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 853  [18:28:23.485] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 187 structureChanged: false Elapsed: 255ms
+Info 854  [18:28:23.485] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 855  [18:28:46.656] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 856  [18:28:46.656] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 857  [18:28:46.903] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player
+Info 858  [18:28:46.904] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 859  [18:28:46.904] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 860  [18:28:47.300] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 188 structureChanged: false Elapsed: 396ms
+Info 861  [18:28:47.301] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 862  [18:28:49.161] Before ensureProjectForOpenFiles:
+Info 863  [18:28:49.162] After ensureProjectForOpenFiles:
+Info 864  [18:29:0.730] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 865  [18:29:0.730] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 866  [18:29:0.984] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 867  [18:29:1.14] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 189 structureChanged: false Elapsed: 30ms
+Info 868  [18:29:1.53] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game
+Info 869  [18:29:1.56] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 870  [18:29:3.244] Before ensureProjectForOpenFiles:
+Info 871  [18:29:3.244] After ensureProjectForOpenFiles:
+Info 872  [18:29:4.219] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game
+Info 873  [18:29:4.220] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 874  [18:29:13.499] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list
+Info 875  [18:29:13.501] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 876  [18:29:15.355] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list
+Info 877  [18:29:15.356] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 878  [18:29:45.121] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src
+Info 879  [18:29:45.122] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/index.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 880  [18:29:45.169] Loading global plugin @angular/language-service
+Info 881  [18:29:45.169] Enabling plugin @angular/language-service from candidate paths: c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\node_modules\@angular\language-service\bundles\language-service.umd.js,c:/node_modules/angular-ide/angular-ide/plugins/pack.angular.win_3.6.0.202007171759/Angular.ng-template-0.1000.2-cm/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 882  [18:29:45.170] Loading @angular/language-service from c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\node_modules\@angular\language-service\bundles\language-service.umd.js (resolved to c:/node_modules/angular-ide/angular-ide/plugins/pack.angular.win_3.6.0.202007171759/Angular.ng-template-0.1000.2-cm/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 883  [18:29:45.573] Plugin validation succeded
+Info 884  [18:29:45.592] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 885  [18:29:49.473] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 3881ms
+Info 886  [18:29:49.473] Project '/dev/null/inferredProject1*' (Inferred)
+Info 887  [18:29:49.475] 	Files (30)
+
+Info 888  [18:29:49.475] -----------------------------------------------
+Info 889  [18:29:49.697] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src
+Info 890  [18:29:49.698] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/index.html :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 891  [18:29:49.702] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 892  [18:29:49.703] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 1ms
+Info 893  [18:29:49.703] Project '/dev/null/inferredProject1*' (Inferred)
+Info 894  [18:29:49.703] 	Files (30)
+
+Info 895  [18:29:49.703] -----------------------------------------------
+Info 896  [18:29:52.989] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/main.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/main.ts 500 undefined Project:  WatchType: Closed Script info
+Info 897  [18:29:52.989] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/main.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/main.ts 500 undefined Project:  WatchType: Closed Script info
+Info 898  [18:29:53.249] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 899  [18:29:53.639] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 190 structureChanged: false Elapsed: 390ms
+Info 900  [18:29:53.651] Project 'c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json' (Configured)
+Info 901  [18:29:53.651] 	Files (614)
+
+Info 902  [18:29:53.651] -----------------------------------------------
+Info 903  [18:29:53.701] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src
+Info 904  [18:29:53.702] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/main.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 905  [18:29:53.702] `remove Project::
+Info 906  [18:29:53.702] Project '/dev/null/inferredProject1*' (Inferred)
+Info 907  [18:29:53.702] 	Files (30)
+
+Info 908  [18:29:53.702] -----------------------------------------------
+Info 909  [18:29:55.492] Before ensureProjectForOpenFiles:
+Info 910  [18:29:55.492] After ensureProjectForOpenFiles:
+Info 911  [18:30:15.151] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json 2000 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Config file
+Info 912  [18:30:15.160] Elapsed:: 9ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json 2000 undefined Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json WatchType: Config file
+Info 913  [18:30:15.413] Reloading configured project c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 914  [18:30:15.564] Config: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json : {
+ "rootNames": [
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.e2e-spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.po.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/main.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/polyfills.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/test.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app-routing.module.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.module.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.service.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/group.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.spec.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.prod.ts",
+  "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular",
+  "outDir": "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "module": 5,
+  "moduleResolution": 2,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true,
+  "importHelpers": true,
+  "target": 1,
+  "typeRoots": [
+   "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/node_modules/@types"
+  ],
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json"
+ }
+}
+Info 915  [18:30:15.573] Loading global plugin @angular/language-service
+Info 916  [18:30:15.574] Enabling plugin @angular/language-service from candidate paths: c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\node_modules\@angular\language-service\bundles\language-service.umd.js,c:/node_modules/angular-ide/angular-ide/plugins/pack.angular.win_3.6.0.202007171759/Angular.ng-template-0.1000.2-cm/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 917  [18:30:15.574] Loading @angular/language-service from c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\node_modules\@angular\language-service\bundles\language-service.umd.js (resolved to c:/node_modules/angular-ide/angular-ide/plugins/pack.angular.win_3.6.0.202007171759/Angular.ng-template-0.1000.2-cm/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 918  [18:30:15.736] Plugin validation succeded
+Info 919  [18:30:19.533] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 920  [18:30:19.535] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 191 structureChanged: false Elapsed: 1ms
+Info 921  [18:30:19.536] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 922  [18:30:19.552] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 192 structureChanged: false Elapsed: 16ms
+Info 923  [18:30:19.593] Before ensureProjectForOpenFiles:
+Info 924  [18:30:19.593] After ensureProjectForOpenFiles:
+Info 925  [18:30:19.602] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 926  [18:30:19.603] Elapsed:: 1ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 927  [18:30:19.603] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 928  [18:30:19.604] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 929  [18:30:19.604] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 930  [18:30:19.604] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs.bak :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 931  [18:30:19.605] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 932  [18:30:19.605] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/.settings/com.genuitec.eclipse.code.ui.prefs :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 933  [18:31:18.784] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src
+Info 934  [18:31:18.784] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/main.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 935  [18:31:29.264] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.ts 500 undefined Project:  WatchType: Closed Script info
+Info 936  [18:31:29.265] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.ts 500 undefined Project:  WatchType: Closed Script info
+Info 937  [18:31:29.486] Search path: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments
+Info 938  [18:31:29.487] For info: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.ts :: Config file name: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 939  [18:31:29.487] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 940  [18:31:29.888] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 193 structureChanged: false Elapsed: 401ms
+Info 941  [18:31:29.889] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 942  [18:31:31.767] Before ensureProjectForOpenFiles:
+Info 943  [18:31:31.767] After ensureProjectForOpenFiles:
+Info 944  [18:33:28.390] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/polyfills.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/polyfills.ts 500 undefined Project:  WatchType: Closed Script info
+Info 945  [18:33:28.391] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/polyfills.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/polyfills.ts 500 undefined Project:  WatchType: Closed Script info
+Info 946  [18:33:28.656] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 947  [18:33:28.677] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 194 structureChanged: false Elapsed: 21ms
+Info 948  [18:33:29.349] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/test.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/test.ts 500 undefined Project:  WatchType: Closed Script info
+Info 949  [18:33:29.350] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/test.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/test.ts 500 undefined Project:  WatchType: Closed Script info
+Info 950  [18:33:29.480] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 951  [18:33:29.481] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 952  [18:33:29.491] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 953  [18:33:29.492] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/game.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 954  [18:33:29.500] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 955  [18:33:29.500] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/lienzo.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 956  [18:33:29.511] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 957  [18:33:29.511] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.service.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 958  [18:33:29.518] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 959  [18:33:29.518] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 960  [18:33:29.525] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.ts 500 undefined Project:  WatchType: Closed Script info
+Info 961  [18:33:29.525] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player.ts 500 undefined Project:  WatchType: Closed Script info
+Info 962  [18:33:29.777] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 963  [18:33:29.803] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 195 structureChanged: false Elapsed: 26ms
+Info 964  [18:33:32.36] Before ensureProjectForOpenFiles:
+Info 965  [18:33:32.36] After ensureProjectForOpenFiles:
+Info 966  [18:34:35.96] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/org.eclipse.equinox.app/.manager/.tmp583026263963627022.instance :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 967  [18:34:35.97] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/org.eclipse.equinox.app/.manager/.tmp583026263963627022.instance :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 968  [18:34:35.147] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/org.eclipse.core.runtime/.manager/.tmp2665114612609703454.instance :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 969  [18:34:35.147] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/configuration/org.eclipse.core.runtime/.manager/.tmp2665114612609703454.instance :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 970  [18:34:35.295] DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/extensions/instance-6939346835676041475.lock :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 971  [18:34:35.295] Elapsed:: 0ms DirectoryWatcher:: Triggered with c:/node_modules/angular-ide/angular-ide/extensions/instance-6939346835676041475.lock :: WatchInfo: c:/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 972  [18:34:56.198] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 973  [18:34:56.198] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 974  [18:34:56.461] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 975  [18:34:56.493] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 196 structureChanged: false Elapsed: 32ms
+Info 976  [18:34:58.707] Before ensureProjectForOpenFiles:
+Info 977  [18:34:58.708] After ensureProjectForOpenFiles:
+Info 978  [18:35:31.512] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.e2e-spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.e2e-spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 979  [18:35:31.512] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.e2e-spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.e2e-spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 980  [18:35:31.519] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.po.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.po.ts 500 undefined Project:  WatchType: Closed Script info
+Info 981  [18:35:31.520] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.po.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/e2e/src/app.po.ts 500 undefined Project:  WatchType: Closed Script info
+Info 982  [18:35:31.529] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 983  [18:35:31.530] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/add-player/add-player.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 984  [18:35:31.536] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 985  [18:35:31.536] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 986  [18:35:31.540] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 987  [18:35:31.540] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.spec.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.spec.ts 500 undefined Project:  WatchType: Closed Script info
+Info 988  [18:35:31.546] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.prod.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.prod.ts 500 undefined Project:  WatchType: Closed Script info
+Info 989  [18:35:31.546] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.prod.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/environments/environment.prod.ts 500 undefined Project:  WatchType: Closed Script info
+Info 990  [18:35:31.582] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 991  [18:35:31.582] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/view-lienzo/view-lienzo.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 992  [18:35:31.833] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 993  [18:35:31.871] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 197 structureChanged: false Elapsed: 38ms
+Info 994  [18:35:34.86] Before ensureProjectForOpenFiles:
+Info 995  [18:35:34.86] After ensureProjectForOpenFiles:
+Info 996  [18:35:48.869] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 997  [18:35:48.876] Elapsed:: 7ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 998  [18:35:48.950] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 999  [18:35:48.951] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1000 [18:35:49.229] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 1001 [18:35:50.182] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 198 structureChanged: false Elapsed: 953ms
+Info 1002 [18:35:50.182] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 1003 [18:35:51.483] Before ensureProjectForOpenFiles:
+Info 1004 [18:35:51.483] After ensureProjectForOpenFiles:
+Info 1005 [18:38:36.365] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 1006 [18:38:36.365] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/app.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 1007 [18:38:36.635] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 1008 [18:38:36.666] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 199 structureChanged: false Elapsed: 31ms
+Info 1009 [18:38:38.872] Before ensureProjectForOpenFiles:
+Info 1010 [18:38:38.872] After ensureProjectForOpenFiles:
+Info 1011 [18:42:26.164] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1012 [18:42:26.168] Elapsed:: 3ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1013 [18:42:26.176] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1014 [18:42:26.177] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1015 [18:42:26.179] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1016 [18:42:26.179] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1017 [18:42:26.433] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 1018 [18:42:26.580] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 200 structureChanged: false Elapsed: 146ms
+Info 1019 [18:42:28.695] Before ensureProjectForOpenFiles:
+Info 1020 [18:42:28.696] After ensureProjectForOpenFiles:
+Info 1021 [18:43:14.824] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1022 [18:43:14.824] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1023 [18:43:14.887] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1024 [18:43:14.887] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1025 [18:43:14.890] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1026 [18:43:14.891] Elapsed:: 1ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/play-game/play-game.component.ts 500 undefined Project:  WatchType: Closed Script info
+Info 1027 [18:43:15.162] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 1028 [18:43:15.746] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 201 structureChanged: false Elapsed: 584ms
+Info 1029 [18:43:15.746] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 1030 [18:43:17.396] Before ensureProjectForOpenFiles:
+Info 1031 [18:43:17.397] After ensureProjectForOpenFiles:
+Info 1032 [18:52:27.443] FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 1033 [18:52:27.444] Elapsed:: 0ms FileWatcher:: Triggered with c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html 1:: WatchInfo: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/src/app/player-list/player-list.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 1034 [18:52:27.865] Starting updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json
+Info 1035 [18:52:28.448] Finishing updateGraphWorker: Project: c:/Users/michl/git/Spring-Angular-MySQL-CRUD/Angular/tsconfig.json Version: 202 structureChanged: false Elapsed: 583ms
+Info 1036 [18:52:29.959] Before ensureProjectForOpenFiles:
+Info 1037 [18:52:29.959] After ensureProjectForOpenFiles:

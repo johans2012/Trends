@@ -1,0 +1,54 @@
+export class Player {
+    id: number;
+    username: String;
+    power: String[];
+    shield: String[];
+    life: number;
+    //groupId: number;
+
+    constructor() {
+        this.life = 10;
+    }
+
+    attacks() {
+        this.ballsAttack();
+    }
+
+    defends() {
+        this.onShield();
+    }
+
+    protected ballsAttack() {
+        console.log("ball attack is use");
+    }
+
+    protected onShield() {
+        console.log("shield is active");
+
+        let damage = Math.floor(Math.random() * (10 - 1 + 1)) + 1;
+        this.reduceLife(damage);
+        console.log(this.life);
+    }
+
+    protected reduceLife(damage: number) {
+        this.life = this.life - damage;
+    }
+
+    consultAction() {
+        let response = null;
+        response = prompt("Digite A (atack) or S (shield)");
+
+        if(response === "A"){
+            this.attacks();
+        }
+        if(response === "S"){
+            this.defends();
+        }
+
+        let flag = false;
+        flag = true;
+        if(flag === true){
+            this.consultAction();
+        }
+    }
+}

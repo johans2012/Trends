@@ -1,0 +1,236 @@
+[2022-03-31 17:07:41.941] [exthost] [info] extension host started
+[2022-03-31 17:07:45.548] [exthost] [info] extension host started
+[2022-03-31 17:07:46.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2022-03-31 17:07:46.130] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/grunt/dist/main
+[2022-03-31 17:07:46.154] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2022-03-31 17:07:46.155] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/gulp/dist/main
+[2022-03-31 17:07:46.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2022-03-31 17:07:46.199] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/jake/dist/main
+[2022-03-31 17:07:46.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2022-03-31 17:07:46.212] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/npm/dist/main
+[2022-03-31 17:07:46.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2022-03-31 17:07:46.377] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/typescript-language-features/dist/extension
+[2022-03-31 17:07:46.706] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2022-03-31 17:07:46.707] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/pack.core.win_3.6.0.202007171759/HookyQR.beautify-1.4.11/extension
+[2022-03-31 17:07:47.437] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2022-03-31 17:07:47.437] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/pack.core.win_3.6.0.202007171759/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2022-03-31 17:07:47.786] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2022-03-31 17:07:47.787] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/pack.core.win_3.6.0.202007171759/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2022-03-31 17:07:48.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2022-03-31 17:07:48.025] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/debug-auto-launch/dist/extension
+[2022-03-31 17:07:48.042] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2022-03-31 17:07:48.042] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/emmet/dist/extension
+[2022-03-31 17:07:48.326] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2022-03-31 17:07:48.329] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/pack.core.win_3.6.0.202007171759/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2022-03-31 17:07:48.600] [exthost] [info] eager extensions activated
+[2022-03-31 17:08:03.995] [exthost] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"extensionId":{"value":"Angular.ng-template","_lower":"angular.ng-template"},"activationEvent":"onLanguage:typescript"}
+[2022-03-31 17:08:03.995] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/pack.angular.win_3.6.0.202007171759/Angular.ng-template-0.1000.2-cm/client
+[2022-03-31 17:08:04.450] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2022-03-31 17:08:04.450] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/extension-editing/dist/extension
+[2022-03-31 17:08:04.577] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"extensionId":{"value":"ms-vscode.vscode-typescript-tslint-plugin","_lower":"ms-vscode.vscode-typescript-tslint-plugin"},"activationEvent":"onLanguage:typescript"}
+[2022-03-31 17:08:04.577] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/pack.core.win_3.6.0.202007171759/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/out/index.js
+[2022-03-31 17:08:33.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2022-03-31 17:08:33.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/configuration-editing/dist/extension
+[2022-03-31 17:08:33.285] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2022-03-31 17:08:33.285] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2022-03-31 17:34:09.718] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2022-03-31 17:34:09.721] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2022-03-31 17:34:10.105] [exthost] [info] ExtensionService#_doActivateExtension mkaufman.HTMLHint {"startup":false,"extensionId":{"value":"mkaufman.HTMLHint","_lower":"mkaufman.htmlhint"},"activationEvent":"onLanguage:html"}
+[2022-03-31 17:34:10.105] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/pack.core.win_3.6.0.202007171759/mkaufman.HTMLHint-0.6.0/out/extension
+[2022-03-31 17:39:39.075] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-03-31 17:39:39.080] [exthost] [error] Error: <semantic> TypeScript Server Error (3.9.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (tsserver.js:1023:18)
+    at Object.getImportCompletionAction (tsserver.js:129669:38)
+    at getCompletionEntryCodeActionsAndSourceDisplay (tsserver.js:112507:33)
+    at Object.getCompletionEntryDetails (tsserver.js:112471:30)
+    at Proxy.getCompletionEntryDetails (tsserver.js:138863:35)
+    at tsserver.js:148965:57
+    at Object.mapDefined (tsserver.js:562:30)
+    at IOSession.Session.getCompletionEntryDetails (tsserver.js:148963:33)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:147881:61)
+    at tsserver.js:149512:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:149503:28)
+    at IOSession.Session.executeCommand (tsserver.js:149512:33)
+    at IOSession.Session.onMessage (tsserver.js:149536:35)
+    at Interface.<anonymous> (tsserver.js:150852:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:63734)
+	at h.dispatchResponse (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:56672)
+	at h.dispatchMessage (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:55570)
+	at c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:55046
+	at Emitter.fire (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:3713:38)
+	at t.Reader.onLengthData (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:61948)
+	at Socket.<anonymous> (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:61596)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2022-03-31 17:39:48.229] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-03-31 17:39:48.229] [exthost] [error] Error: <semantic> TypeScript Server Error (3.9.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (tsserver.js:1023:18)
+    at Object.getImportCompletionAction (tsserver.js:129669:38)
+    at getCompletionEntryCodeActionsAndSourceDisplay (tsserver.js:112507:33)
+    at Object.getCompletionEntryDetails (tsserver.js:112471:30)
+    at Proxy.getCompletionEntryDetails (tsserver.js:138863:35)
+    at tsserver.js:148965:57
+    at Object.mapDefined (tsserver.js:562:30)
+    at IOSession.Session.getCompletionEntryDetails (tsserver.js:148963:33)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:147881:61)
+    at tsserver.js:149512:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:149503:28)
+    at IOSession.Session.executeCommand (tsserver.js:149512:33)
+    at IOSession.Session.onMessage (tsserver.js:149536:35)
+    at Interface.<anonymous> (tsserver.js:150852:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:63734)
+	at h.dispatchResponse (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:56672)
+	at h.dispatchMessage (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:55570)
+	at c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:55046
+	at Emitter.fire (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:3713:38)
+	at t.Reader.onLengthData (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:61948)
+	at Socket.<anonymous> (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:61596)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2022-03-31 17:39:50.978] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-03-31 17:39:50.979] [exthost] [error] Error: <semantic> TypeScript Server Error (3.9.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (tsserver.js:1023:18)
+    at Object.getImportCompletionAction (tsserver.js:129669:38)
+    at getCompletionEntryCodeActionsAndSourceDisplay (tsserver.js:112507:33)
+    at Object.getCompletionEntryDetails (tsserver.js:112471:30)
+    at Proxy.getCompletionEntryDetails (tsserver.js:138863:35)
+    at tsserver.js:148965:57
+    at Object.mapDefined (tsserver.js:562:30)
+    at IOSession.Session.getCompletionEntryDetails (tsserver.js:148963:33)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:147881:61)
+    at tsserver.js:149512:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:149503:28)
+    at IOSession.Session.executeCommand (tsserver.js:149512:33)
+    at IOSession.Session.onMessage (tsserver.js:149536:35)
+    at Interface.<anonymous> (tsserver.js:150852:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:63734)
+	at h.dispatchResponse (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:56672)
+	at h.dispatchMessage (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:55570)
+	at c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:55046
+	at Emitter.fire (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:3713:38)
+	at t.Reader.onLengthData (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:61948)
+	at Socket.<anonymous> (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:61596)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2022-03-31 17:39:52.688] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-03-31 17:39:52.688] [exthost] [error] Error: <semantic> TypeScript Server Error (3.9.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (tsserver.js:1023:18)
+    at Object.getImportCompletionAction (tsserver.js:129669:38)
+    at getCompletionEntryCodeActionsAndSourceDisplay (tsserver.js:112507:33)
+    at Object.getCompletionEntryDetails (tsserver.js:112471:30)
+    at Proxy.getCompletionEntryDetails (tsserver.js:138863:35)
+    at tsserver.js:148965:57
+    at Object.mapDefined (tsserver.js:562:30)
+    at IOSession.Session.getCompletionEntryDetails (tsserver.js:148963:33)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:147881:61)
+    at tsserver.js:149512:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:149503:28)
+    at IOSession.Session.executeCommand (tsserver.js:149512:33)
+    at IOSession.Session.onMessage (tsserver.js:149536:35)
+    at Interface.<anonymous> (tsserver.js:150852:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:63734)
+	at h.dispatchResponse (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:56672)
+	at h.dispatchMessage (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:55570)
+	at c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:55046
+	at Emitter.fire (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:3713:38)
+	at t.Reader.onLengthData (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:61948)
+	at Socket.<anonymous> (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:61596)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2022-03-31 17:41:36.608] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-03-31 17:41:36.608] [exthost] [error] Error: <semantic> TypeScript Server Error (3.9.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (tsserver.js:1023:18)
+    at Object.getImportCompletionAction (tsserver.js:129669:38)
+    at getCompletionEntryCodeActionsAndSourceDisplay (tsserver.js:112507:33)
+    at Object.getCompletionEntryDetails (tsserver.js:112471:30)
+    at Proxy.getCompletionEntryDetails (tsserver.js:138863:35)
+    at tsserver.js:148965:57
+    at Object.mapDefined (tsserver.js:562:30)
+    at IOSession.Session.getCompletionEntryDetails (tsserver.js:148963:33)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:147881:61)
+    at tsserver.js:149512:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:149503:28)
+    at IOSession.Session.executeCommand (tsserver.js:149512:33)
+    at IOSession.Session.onMessage (tsserver.js:149536:35)
+    at Interface.<anonymous> (tsserver.js:150852:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:63734)
+	at h.dispatchResponse (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:56672)
+	at h.dispatchMessage (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:55570)
+	at c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:55046
+	at Emitter.fire (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:3713:38)
+	at t.Reader.onLengthData (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:61948)
+	at Socket.<anonymous> (c:\node_modules\angular-ide\angular-ide\plugins\com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104\engine\resources\app\extensions\typescript-language-features\dist\extension.js:53:61596)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2022-03-31 18:30:11.071] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2022-03-31 18:30:11.079] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/node_modules/angular-ide/angular-ide/plugins/com.genuitec.eclipse.code.engine.app.win32.x86_64_3.6.0.202002212104/engine/resources/app/extensions/markdown-language-features/dist/extension

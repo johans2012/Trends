@@ -1,0 +1,4 @@
+[Info  - 17:08:07] Angular language server process ID: 16820
+[Info  - 17:08:07] Using typescript v3.9.6 from c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js
+[Info  - 17:08:07] Using @angular/language-service v10.0.2 from c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\node_modules\@angular\language-service\bundles\language-service.umd.js
+[Info  - 17:08:07] Log file: c:\Users\michl\git\Spring-Angular-MySQL-CRUD\.metadata\.plugins\com.genuitec.eclipse.code.core\.codeMixData\3\logs\20220331T170714\exthost1\Angular.ng-template\nglangsvc.log

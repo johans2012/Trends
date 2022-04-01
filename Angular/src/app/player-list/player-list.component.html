@@ -1,0 +1,55 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h1 style="text-align: center">Players</h1><br>
+    <div class="row" [hidden]="!deleteMessage">
+      <div class="col-sm-4"></div>
+      <div class="col-sm-4">
+        <div class="alert alert-info alert-dismissible">
+          <button type="button" class="close" data-dismiss="alert">&times;</button>
+          <strong>Student Data Deleted</strong>
+        </div>
+      </div>
+      <div class="col-sm-4"></div>
+    </div>
+  </div>
+
+
+  <div class="panel-body">
+    <table class="table table-hover table-sm" datatable [dtOptions]="dtOptions" [dtTrigger]="dtTrigger">
+      <thead class="thead-light">
+        <tr>
+          <th>Id</th>
+          <th>Username</th>
+          <th>Power</th>
+          <th>Shield</th>
+          <th>Life</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let player of players">
+          <td>{{player.id}}</td>
+          <td>{{player.username}}</td>
+          <td>{{player.power}}</td>
+          <td>{{player.shield}}</td>
+          <td>{{player.life}}</td>
+          <td>
+            <button (click)="deletePlayer(player.id)" class='btn btn-primary'><i
+                class="fa fa-futboll-0">Delete</i></button>&nbsp;
+            <button (click)="updatePlayer(player.id)" class='btn btn-info' data-toggle="modal"
+              data-target="#myModal">Update
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="modal" id="myModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,44 @@
+import { Component, OnInit } from '@angular/core';
+import { PlayerService } from '../player.service';
+import { Player } from '../player';
+import { FormControl, FormGroup, Validators } from '@angular/forms';
+
+@Component({
+  selector: 'app-add-player',
+  templateUrl: './add-player.component.html',
+  styleUrls: ['./add-player.component.css']
+})
+export class AddPlayerComponent implements OnInit {
+
+  player: Player = new Player(0, "", "", "", 0);
+
+  playerSaveForm = new FormGroup({
+    playerName: new FormControl('', [Validators.required, Validators.minLength(3)]),
+  });
+
+  constructor(private playerService: PlayerService) { }
+
+  ngOnInit() {
+  }
+
+  get PlayerName() {
+    return this.playerSaveForm.get('playerName');
+  }
+
+  savePlayer(savePlayer) {
+    this.player = new Player(0, "", "", "", 0);
+    this.player.username = this.PlayerName.value;
+    this.save();
+  }
+
+  save() {
+    this.playerService.createPlayer(this.player)
+      .subscribe(data => console.log(data), error => console.log(error));
+    this.player = new Player();
+  }
+}
+
+
+
+
+

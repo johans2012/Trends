@@ -1,0 +1,105 @@
+export class Player {
+    id: number;
+    username: String;
+    power: String[];
+    shield: String[];
+    life: number;
+    //groupId: number;
+
+    constructor() {
+        this.life = 10;
+    }
+
+    public attacks() {
+        this.ballsAttack();
+    }
+
+    public defends() {
+        this.onShield();
+    }
+
+    public optionalAction() {
+        this.attacks();
+        this.defends();
+    }
+
+    protected ballsAttack() {
+        console.log("ball attack is use");
+
+        this.life = this.life -1;
+    }
+
+    protected onShield() {
+        console.log("shield is active");
+
+        this.life = this.life +1;
+    }
+
+    protected reduceLife(damage: number) {
+        this.life = this.life - damage;
+
+        return this.life;
+    }
+
+    consultAction(interfaz: number) {
+
+        let currentLife = this.life;
+
+
+
+
+        let response = null;
+        response = prompt("Digite A (atack) or S (shield)");
+
+        if(response === "A"){
+            this.attacks();
+            this.reduceLife(interfaz);
+        }
+        if(response === "S"){
+            this.defends();
+        }
+
+        let flag = false;
+        flag = true;
+        if(flag === true){
+            this.optionalAction();
+        }
+
+        return currentLife;
+
+    }
+
+    public run(interfaz: number) {
+
+        let run = false;
+        let lifeactual = 0;
+
+
+        this.life = this.consultAction(interfaz);
+
+        lifeactual = this.life;
+
+
+        if(lifeactual >= 5) {
+            run = true;
+        }
+
+
+        while(run) {
+            this.consultAction(interfaz);
+        }
+        
+        return 0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+

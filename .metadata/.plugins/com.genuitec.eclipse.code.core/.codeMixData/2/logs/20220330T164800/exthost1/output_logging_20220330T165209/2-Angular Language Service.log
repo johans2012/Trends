@@ -1,0 +1,126 @@
+[Info  - 16:52:09] Angular language server process ID: 8124
+[Info  - 16:52:09] Using typescript v3.9.6 from c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js
+[Info  - 16:52:09] Using @angular/language-service v10.0.2 from c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\node_modules\@angular\language-service\bundles\language-service.umd.js
+[Info  - 16:52:09] Log file: c:\Users\michl\git\Spring-Angular-MySQL-CRUD\.metadata\.plugins\com.genuitec.eclipse.code.core\.codeMixData\2\logs\20220330T164800\exthost1\Angular.ng-template\nglangsvc.log
+[Error - 18:24:53] Error: Debug Failure. False expression.
+    at tryReuseStructureFromOldProgram (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:100507:22)
+    at Object.createProgram (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:100126:30)
+    at synchronizeHostData (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:139276:26)
+    at Object.getProgram (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:139368:13)
+    at ConfiguredProject.Project.updateGraphWorker (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:143487:53)
+    at ConfiguredProject.Project.updateGraph (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:143430:42)
+    at ConfiguredProject.updateGraph (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:144224:63)
+    at updateProjectIfDirty (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:144694:45)
+    at ProjectService.assignProjectToOpenedScriptInfo (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:146771:29)
+    at ProjectService.openClientFileWithNormalizedPath (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:146898:31)
+[Error - 18:24:53] Notification handler 'textDocument/didOpen' failed with message: Debug Failure. False expression.
+[Error - 18:25:05] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:25:09] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:25:11] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:39:16] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:39:18] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:39:21] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:39:31] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:40:34] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:41:00] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:41:01] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:41:23] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:41:37] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:41:39] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:43:31] Error: Debug Failure. False expression.
+    at tryReuseStructureFromOldProgram (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:100507:22)
+    at Object.createProgram (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:100126:30)
+    at synchronizeHostData (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:139276:26)
+    at Object.getProgram (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:139368:13)
+    at ConfiguredProject.Project.updateGraphWorker (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:143487:53)
+    at ConfiguredProject.Project.updateGraph (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:143430:42)
+    at ConfiguredProject.updateGraph (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:144224:63)
+    at updateProjectIfDirty (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:144694:45)
+    at ProjectService.assignProjectToOpenedScriptInfo (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:146771:29)
+    at ProjectService.openClientFileWithNormalizedPath (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:146898:31)
+[Error - 18:43:31] Notification handler 'textDocument/didOpen' failed with message: Debug Failure. False expression.
+[Error - 18:47:49] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:48:05] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:49:15] Request textDocument/hover failed.
+  Message: Request textDocument/hover failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:49:26] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:49:26] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:50:49] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:50:54] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:50:56] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:54:55] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:54:56] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:54:57] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:56:54] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 18:56:55] Request textDocument/completion failed.
+  Message: Request textDocument/completion failed with message: Debug Failure. False expression.
+  Code: -32603 
+c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:2251
+            throw e;
+            ^
+
+Error: Debug Failure. False expression.
+    at tryReuseStructureFromOldProgram (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:100507:22)
+    at Object.createProgram (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:100126:30)
+    at synchronizeHostData (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:139276:26)
+    at Object.getProgram (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:139368:13)
+    at ConfiguredProject.Project.updateGraphWorker (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:143487:53)
+    at ConfiguredProject.Project.updateGraph (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:143430:42)
+    at ConfiguredProject.updateGraph (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:144224:63)
+    at Object.updateProjectIfDirty (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:144694:45)
+    at ConfiguredProject.Project.isNonTsProject (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js:142878:24)
+    at isAngularProject (c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\index.js:1330:18)
+[Info  - 18:58:22] Connection to server got closed. Server will restart.
+[Info  - 18:58:24] Angular language server process ID: 14292
+[Info  - 18:58:24] Using typescript v3.9.6 from c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\node_modules\typescript\lib\tsserverlibrary.js
+[Info  - 18:58:24] Using @angular/language-service v10.0.2 from c:\node_modules\angular-ide\angular-ide\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\node_modules\@angular\language-service\bundles\language-service.umd.js
+[Info  - 18:58:24] Log file: c:\Users\michl\git\Spring-Angular-MySQL-CRUD\.metadata\.plugins\com.genuitec.eclipse.code.core\.codeMixData\2\logs\20220330T164800\exthost1\Angular.ng-template\nglangsvc.log
